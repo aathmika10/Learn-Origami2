@@ -1,0 +1,30 @@
+h1{
+    border: solid;
+    background-color: rgb(233, 139, 186);
+}
+.whole{
+    border: solid;
+    background-color: black;
+}
+.origamis{
+    background-color: rgb(0, 0, 0);
+}
+.chameleon{
+    background-color: rgb(59, 235, 88);
+    border:solid;
+}
+.pigeon{
+    background-color: rgb(169, 218, 238);
+}
+.camel{
+    background-color: rgb(241, 196, 80);
+}
+.bear{
+    background-color: rgb(231, 183, 139);
+}
+.panda{
+    background-color: rgb(129, 164, 165);
+}
+.cicada{
+    background-color: rgb(240, 183, 109);
+}
